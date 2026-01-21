@@ -1,0 +1,8 @@
+{
+  "name": "MeshTalk - Offline AI Mesh Network",
+  "description": "A high-fidelity simulation of an AI-powered offline mesh communication network designed for disaster recovery and rural connectivity. Features real-time AI translation, emergency detection, and interactive network visualization.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
